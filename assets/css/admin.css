@@ -1,0 +1,50 @@
+.add-admin .main {
+  background: linear-gradient(145deg, #cacaca, #f0f0f0);
+  box-shadow: 20px 20px 60px #bebebe, -20px -20px 60px #ffffff;
+  border-radius: 2vh;
+  height: 400px;
+}
+.add-admin .header-title {
+  background: linear-gradient(145deg, #cacaca, #f0f0f0);
+  box-shadow: 20px 20px 60px #bebebe, -20px -20px 60px #ffffff;
+  border-radius: 2vh;
+  height: 200px;
+  transform: translateY(80px);
+}
+.admin-list {
+  background: linear-gradient(145deg, #cacaca, #f0f0f0);
+  box-shadow: 20px 20px 60px #bebebe, -20px -20px 60px #ffffff;
+  border-radius: 2vh;
+  height: 70%;
+  width: 60%;
+  transform: translate(40px, 35px);
+}
+.add-admin .main {
+  height: 255px;
+}
+.add-new-admin-form {
+  width: 80%;
+}
+.spc {
+  width: 40px;
+}
+.container {
+  width: 75%;
+  transform: translateX(100px);
+}
+/* *{
+    outline: 1px solid red;
+} */
+img[alt="administrative"] {
+  position: absolute;
+  width: 300px;
+  height: 225px;
+}
+.add-admin .header-title {
+  overflow: hidden;
+}
+img[alt="power-button"] {
+  width: 20px;
+  height: 20px;
+  transform: translateY(-2px);
+}
